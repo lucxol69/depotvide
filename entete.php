@@ -17,6 +17,6 @@
   <meta property="og:title" content="Document minimal en MMI" />
   <meta property="og:site_name" content="Document minimal en MMI" />
   <title>Document minimal en MMI</title>
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/styles.css" />
 </head>
 
