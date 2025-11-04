@@ -7,7 +7,7 @@
         <!-- menu principal -->
         </nav>
      </header>  
-<p class="lien"> <a href='formulaire.php'>Se connecter</a>
+<p class="lien"> <a href='formulaire.php'>Se connecter</a></p>
 
 
 <?php include("pieddepage.php"); ?>
