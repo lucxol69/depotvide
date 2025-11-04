@@ -6,8 +6,7 @@
         $identifiant = $_POST['identifiant'];
         $motdepasse = $_POST['motdepasse'];
         
-        // Ici vous pourrez ajouter la vérification avec votre base de données
-        // Pour l'instant, on affiche juste un message de bienvenue
+        
         echo "<h2>Bienvenue " . $identifiant . " !</h2>";
     } else {
         echo "<p>Veuillez remplir tous les champs du formulaire.</p>";
