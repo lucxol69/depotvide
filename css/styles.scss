@@ -1,0 +1,22 @@
+a.lien-haut-droite {
+  position: absolute;   // Positionne le lien par rapport au body ou à un conteneur parent positionné
+  top: 20px;            // Distance du haut
+  right: 20px;          // Distance de la droite
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+  &:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}

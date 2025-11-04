@@ -7,7 +7,7 @@
         <!-- menu principal -->
         </nav>
      </header>  
-<button type="button" onclick="location.href='formulaire.php'">Retour au formulaire</button>
+<a href='formulaire.php'>Se connecter</a>
 
 
 <?php include("pieddepage.php"); ?>
